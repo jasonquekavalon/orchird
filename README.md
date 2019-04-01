@@ -1,9 +1,11 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-# Tulip Translator
+# Orchird Translator
 
 
 **Disclaimer: This example is made by Lee Boonstra, Customer Engineer @ Google Cloud. Written code can be used as a baseline, it's not meant for production usage, and is not an official Google product**
+
+**Testing this on orchirds, they sound angry all the time, is there something wrong ?
 
 **Copyright 2019 Google LLC. This software is provided as-is, without warranty or representation for any use or purpose. Your use of it is subject to your agreements with Google.**  
 
